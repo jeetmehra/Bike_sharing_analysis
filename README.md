@@ -10,7 +10,7 @@ Note: Client has asked for recommendation on raising prices next year.
 
 ## Tools used
 1. Microsoft SQL server
-2. M<icrosoft Power BI
+2. Microsoft Power BI
 
 
 ## Data analysis workflow
